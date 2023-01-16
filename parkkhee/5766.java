@@ -65,7 +65,7 @@ public class Main {
                 System.out.print(arr.get(i) + " ");
 
             }
-            System.out.println();  //출력 형식도 신경쓰기,,
+            System.out.println();  //출력 형식도 신경쓰기,,,
 
         }
 
